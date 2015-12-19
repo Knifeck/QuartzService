@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QK.QuartzService", "QK.QuartzService\QK.QuartzService.csproj", "{975A1B1F-5DAD-4D8C-A21E-63B3A8BAD490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{975A1B1F-5DAD-4D8C-A21E-63B3A8BAD490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975A1B1F-5DAD-4D8C-A21E-63B3A8BAD490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975A1B1F-5DAD-4D8C-A21E-63B3A8BAD490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975A1B1F-5DAD-4D8C-A21E-63B3A8BAD490}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
