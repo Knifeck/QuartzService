@@ -26,6 +26,7 @@ namespace QK.QuartzService
                 x.SetDisplayName("QuartzService");
                 x.SetServiceName("QuartzService");
             });
+             
         }
     }
 }
